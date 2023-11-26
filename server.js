@@ -1,3 +1,21 @@
+/********************************************************************************
+*  WEB322 – Assignment 05
+* 
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+* 
+*  https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: Aanchal Basra
+*  Student ID: 156175200
+*  Date: 26/11/2023
+*
+*  Published URL: https://crowded-stole-elk.cyclic.app/
+*
+********************************************************************************/
+
+
+
 const legoData = require("./modules/legoSets");
 const path = require("path");
 
